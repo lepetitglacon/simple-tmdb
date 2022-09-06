@@ -1,0 +1,12 @@
+{
+  "name": "petitglacon/testautoload",
+  "autoload": {
+    "psr-4": {
+      "Classes\\": "Classes/"
+    }
+  },
+  "require": {
+    "guzzlehttp/guzzle": "^7.0",
+    "ext-json": "*"
+  }
+}
